@@ -1,7 +1,7 @@
 ### 👋 Olá! Eu sou o Vitor! 
 
 - 🔭 Desenvolvo projetos web com foco em front-end
-- 🌱 Atualmente estou estudando Python
+- 🌱 Atualmente estou estudando React
 - 😄 Pronomes: ele/dele
 
 <div align="center">
