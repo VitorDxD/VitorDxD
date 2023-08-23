@@ -1,7 +1,7 @@
 ### 👋 Olá! Eu sou o Vitor! 
 
 - 💻 Desenvolvo projetos web com foco em front-end
-- 📚 Atualmente estou estudando ReactJS
+- 📚 Atualmente estou estudando Typescript
 
 <div align="center">
   <a href="https://github.com/vitordxd">
