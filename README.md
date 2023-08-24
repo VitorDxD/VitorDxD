@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Vitor! 
 
-- 💻 Desenvolvo projetos web com foco em front-end
+- 💻 Desenvolvo projetos com foco em desenvolvimento web
 - 📚 Atualmente estou estudando Typescript
 
 <div align="center">
