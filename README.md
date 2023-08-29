@@ -1,7 +1,7 @@
 ### 👋 Olá! Eu sou o Vitor! 
 
 - 💻 Desenvolvo projetos com foco em desenvolvimento web
-- 📚 Atualmente estou estudando Typescript
+- 📚 Atualmente estou estudando NestJs
 
 <div align="center">
   <a href="https://github.com/vitordxd">
@@ -18,6 +18,7 @@
   <img align="center" alt="Vitor-ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Vitor-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Vitor-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Vitor-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 
     
   ##
