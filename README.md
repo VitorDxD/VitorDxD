@@ -1,7 +1,7 @@
 ### 👋 Olá! Eu sou o Vitor! 
 
-- 💻 Desenvolvo projetos com foco em desenvolvimento web
-- 📚 Atualmente estou estudando NestJs
+- 💻 Desenvolvo projetos com foco em desenvolvimento web.
+- 📚 Atualmente estou estudando NestJs.
 
 <div align="center">
   <a href="https://github.com/vitordxd">
