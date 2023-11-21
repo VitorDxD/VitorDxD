@@ -1,7 +1,7 @@
 ### 👋 Olá! Eu sou o Vitor! 
 
 - 💻 Desenvolvo projetos com foco em desenvolvimento web.
-- 📚 Atualmente estou estudando Laravel.
+- 📚 Atualmente estou estudando PHP / Laravel.
 
 <div align="center">
   <a href="https://github.com/vitordxd">
