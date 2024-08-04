@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Vitor! 
 
-- 💻 Desenvolvo projetos com foco em desenvolvimento web.
+- 💻 Desenvolvo projetos web com foco em desenvolvimento back-end.
 - 📚 Atualmente estou estudando PHP/Laravel.
 
 <div align="center">
